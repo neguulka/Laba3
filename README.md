@@ -1,7 +1,4 @@
-# Laba3
-
-Рт-патч
-![image](https://github.com/user-attachments/assets/d2aa9e6e-2fee-4611-bf6b-1a839038f8ca)
+# Laba_Timer
 
 Таймер равен нулю
 ![image](https://github.com/user-attachments/assets/d611dd12-38dc-4bed-98a2-0d3af707d375)
